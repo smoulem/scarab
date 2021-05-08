@@ -1,0 +1,3 @@
+tasks:
+  - init: mvn clean install
+    command: mvn run
